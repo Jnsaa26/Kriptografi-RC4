@@ -1,7 +1,7 @@
 # Kriptografi-RC4
 Tugas Keamanan Data &amp; Informasi
 
-# Implementasi Algoritma Kriptografi RC4 (From Scratch) 🔐
+# Implementasi Algoritma Kriptografi RC4 🔐
 
 Repositori ini berisi implementasi algoritma kriptografi simetris **RC4 (Rivest Cipher 4)** berjenis *stream cipher*. Program ini dibuat dari awal (*from scratch*) menggunakan Python tanpa menggunakan *library* enkripsi instan, sebagai bagian dari penyelesaian Tugas Mata Kuliah Keamanan Data dan Informasi.
 
