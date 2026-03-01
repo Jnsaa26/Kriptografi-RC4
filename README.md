@@ -18,7 +18,7 @@ Program ini mencakup demonstrasi langkah demi langkah dari:
 ## 🚀 Cara Menjalankan Program
 
 1. *Clone* repositori ini atau *download* file `rc4_demo.py` ke komputer anda.
-   git clone [https://github.com/USERNAME_ANDA/Tugas-Kriptografi-RC4.git](https://github.com/USERNAME_ANDA/Tugas-Kriptografi-RC4.git)
+   git clone [https://github.com/USERNAME_ANDA/Tugas-Kriptografi-RC4.git](https://github.com/jnsaa__/Tugas-Kriptografi-RC4.git)
 
 2. Buka terminal atau command prompt, lalu navigasikan ke direktori tempat file disimpan.
 
